@@ -12,7 +12,7 @@ Cơ chế này cần các thành phần sau:
 
 ## Hằng Số Cần Có
 
-Đặt các hằng số này trong lớp dịch vụ:
+Đặt các hằng số này trong lớp service:
 
 ```java
 private static final int DROP_MIN = 0x15;
